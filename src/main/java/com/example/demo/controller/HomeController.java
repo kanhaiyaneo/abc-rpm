@@ -14,7 +14,7 @@ public class HomeController {
 	public String home()
 	
 	{
-		
+		System.out.println("home new");
 		return  "home section view";
 	}
 }
