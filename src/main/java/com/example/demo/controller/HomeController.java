@@ -14,8 +14,12 @@ public class HomeController {
 	public String home()
 	
 	{
+<<<<<<< HEAD
 		
 		
+=======
+		System.out.println("home new");
+>>>>>>> 1e74010 (uploaded 1)
 		return  "home section view";
 	}
 }
